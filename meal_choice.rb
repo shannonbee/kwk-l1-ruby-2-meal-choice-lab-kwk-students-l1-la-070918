@@ -24,7 +24,7 @@ end
   puts breakfast
   puts lunch
   puts dinner
-
+puts snacks
 
 
 
