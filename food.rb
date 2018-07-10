@@ -8,3 +8,7 @@ end
     puts "Lunch is the best time for #{food}!"
   end
   lunch
+  def dinner(food="salmon")
+    puts"Dinner is the best time for #{food}!"
+  end
+  dinner
