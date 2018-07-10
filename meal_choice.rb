@@ -22,15 +22,17 @@ end
   
   dinner 
 
+   puts snacks("candy")
   puts breakfast("pancakes")
   puts lunch("chicken")
   puts dinner("soup")
-  puts snacks("candy")
+ 
   
+  puts snacks
   puts breakfast
   puts lunch
   puts dinner
-puts snacks
+
 
 
 
