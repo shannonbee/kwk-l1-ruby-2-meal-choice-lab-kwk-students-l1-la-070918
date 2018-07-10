@@ -1,17 +1,17 @@
 def snacks(food="Cheetos")
-  puts "Any time is the best time for #{food}"
+  "Any time is the best time for #{food}!"
 
 def breakfast(food="frosted flakes")
-  puts "Morning is the best time for #{food}!"
+   "Morning is the best time for #{food}!"
 end
   
   
   def lunch(food ="grilled cheese")
-    puts "Afternoon is the best time for #{food}!"
+    "Afternoon is the best time for#{food}!"
   end
   
   def dinner(food="salmon")
-    puts "Evening is the best time for #{food}!"
+    "Evening is the best time for #{food}!"
   end
   
   
