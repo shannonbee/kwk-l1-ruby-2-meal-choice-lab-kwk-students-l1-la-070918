@@ -8,7 +8,7 @@ end
   end
   
   def dinner(food="salmon")
-    puts"Dinner is the best time for #{food}!"
+    puts "Dinner is the best time for #{food}!"
   end
   
   
