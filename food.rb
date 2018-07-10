@@ -3,3 +3,5 @@ def breakfast(food="Frosted Flakes")
 end
   
   breakfast
+  
+  def lunch()
