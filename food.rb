@@ -1,2 +1,2 @@
 def meal_choice
-  puts"Morning 
+  puts"Morning is the best time for #()
