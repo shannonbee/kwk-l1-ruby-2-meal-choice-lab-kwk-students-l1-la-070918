@@ -1,5 +1,5 @@
 def snacks(food="Cheetos")
-  puts "Any time is the best time for "
+  puts "Any time is the best time for #{food}"
 
 def breakfast(food="frosted flakes")
   puts "Morning is the best time for #{food}!"
