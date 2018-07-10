@@ -26,14 +26,8 @@ end
   puts lunch("chicken")
   puts dinner("soup")
  
-  
   puts snacks
   puts breakfast
   puts lunch
   puts dinner
-
-
-
-
-
 
