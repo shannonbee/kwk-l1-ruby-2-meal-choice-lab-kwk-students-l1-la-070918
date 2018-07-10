@@ -4,4 +4,7 @@ end
   
   breakfast
   
-  def lunch()
+  def lunch(food="grilled cheese")
+    puts "Lunch is the best time for #{food}!"
+  end
+  lunch
