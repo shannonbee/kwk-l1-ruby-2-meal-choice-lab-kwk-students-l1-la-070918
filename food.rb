@@ -12,4 +12,11 @@ end
   end
   
   
-  puts ""
+  puts breakfast("pancakes")
+  puts lunch("chicken")
+  puts dinner("soup")
+  
+  puts breakfast
+  puts lunch
+  puts dinner
+  
