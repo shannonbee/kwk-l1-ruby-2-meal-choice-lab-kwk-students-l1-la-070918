@@ -1,5 +1,4 @@
-
-def snack(food="Cheetos")
+def snacks(food="Cheetos")
   puts "Any time is the best time for "
 
 def breakfast(food="frosted flakes")
