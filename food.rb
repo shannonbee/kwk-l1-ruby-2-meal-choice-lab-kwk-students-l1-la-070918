@@ -1,2 +1,2 @@
-def breakfast
-  puts"Morning is the best time for #
+def breakfast(food="Frosted Flakes")
+  puts"Morning is the best time for 
